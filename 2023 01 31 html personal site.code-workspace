@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"workbench.preferredHighContrastLightColorTheme": "Atom One Dark",
+		"prettier.bracketSameLine": true
+	}
+}
